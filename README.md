@@ -1,3 +1,7 @@
+https://superb-pasca-79c1e0.netlify.app/
+![Nowy obraz mapy bitowej](https://github.com/Kamilbd/07.insure-landing-page-master/assets/99655638/5c470b74-25ec-4a9a-b4f2-ae78718f2f6c)
+
+
 # Frontend Mentor - Insure landing page solution
 
 This is a solution to the [Insure landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/insure-landing-page-uTU68JV8). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
