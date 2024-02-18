@@ -1,4 +1,4 @@
-https://superb-pasca-79c1e0.netlify.app/
+Live server: https://superb-pasca-79c1e0.netlify.app/
 ![Nowy obraz mapy bitowej](https://github.com/Kamilbd/07.insure-landing-page-master/assets/99655638/5c470b74-25ec-4a9a-b4f2-ae78718f2f6c)
 
 
